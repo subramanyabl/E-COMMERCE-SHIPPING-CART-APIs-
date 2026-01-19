@@ -1,6 +1,5 @@
 # Spring Boot: Mastering REST API Development
 
-This repository contains the **completed code** for [Part 2 of my Spring Boot course](https://codewithmosh.com/p/spring-boot-building-apis).
 
 In this project, we build the backend for an e-commerce application using Spring Boot. The API includes endpoints for:
 
@@ -196,7 +195,3 @@ Our backend listens for this event and updates the order status in the database 
 
 ---
 
-## 🧠 Learn More
-Want to learn how this project was built step by step?
-
-Check out the full course here: [Spring Boot: Mastering REST API Development](https://codewithmosh.com/p/spring-boot-building-apis)
